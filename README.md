@@ -11,10 +11,10 @@ This is a Project to identify Ayurvedic treatments based on symptoms or diseases
 [Team](https://github.com/Tech-Breezers) Members:
 
 - [AARYA RAJOJU](https://github.com/aaryarajoju)
+- [Nikunj Singhania](https://github.com/NikunjSinghania)
 - [Preet Gumber]()
 - [Kush Bhasin]()
 - [Satyam Kumar]()
-- []()
 - []()
 
 ---
