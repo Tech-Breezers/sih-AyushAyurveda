@@ -1,4 +1,4 @@
-# AYUSH Ayurveda
+d# AYUSH Ayurveda
 
 ## Problem Statement - SIH 1347 
 
@@ -18,3 +18,4 @@ This is a Project to identify Ayurvedic treatments based on symptoms or diseases
 - []()
 
 ---
+----
