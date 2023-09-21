@@ -12,7 +12,7 @@ This is a Project to identify Ayurvedic treatments based on symptoms or diseases
 
 - [AARYA RAJOJU](https://github.com/aaryarajoju)
 - [Preet Gumber]()
-- []()
+- [Kush Bhasin]()
 - []()
 - []()
 - []()
