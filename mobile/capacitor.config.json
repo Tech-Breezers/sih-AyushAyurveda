@@ -1,0 +1,8 @@
+{
+  "appId": "app.web.ayushayurveda",
+  "appName": "ayush ayurveda",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
