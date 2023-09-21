@@ -11,7 +11,7 @@ This is a Project to identify Ayurvedic treatments based on symptoms or diseases
 [Team](https://github.com/Tech-Breezers) Members:
 
 - [AARYA RAJOJU](https://github.com/aaryarajoju)
-- []()
+- [Preet Gumber]()
 - []()
 - []()
 - []()
