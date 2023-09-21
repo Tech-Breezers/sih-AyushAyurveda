@@ -1,4 +1,4 @@
-AYUSH Ayurveda
+# AYUSH Ayurveda
 
 ## Problem Statement - SIH 1347 
 
